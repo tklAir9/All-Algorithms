@@ -1,4 +1,4 @@
-//Insertion Sort By Uzair Hasan
+//Binary Search By Uzair Hasan
 //This made this from scratch then improved it with comparing it to other's online
 public class BinarySearch {
 	public static void main(String[] args) {

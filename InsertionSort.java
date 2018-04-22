@@ -1,5 +1,5 @@
 //Insertion Sort By Uzair Hasan
-//This was converted from pseduocode to Java
+//This was converted from pseduocode (from the book "Introductions to Algorithms Third Edition") to Java
 public class InsertionSort {
 	public static void main(String[] args) {
 		int A[] = { 5, 2, 4, 6, 1, 3 }; //Random test array

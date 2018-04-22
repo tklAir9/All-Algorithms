@@ -1,2 +1,2 @@
-# All-Algorithms
-All the algorithms that I have made or found
+# All-Java-Algorithms
+All the algorithms that I have made using Java

@@ -1,4 +1,4 @@
-//Insertion Sort By Uzair Hasan
+//Linear Search By Uzair Hasan
 //This made this from scratch
 public class LinearSearch {
 	public static void main (String[] args) {

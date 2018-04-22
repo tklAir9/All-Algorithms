@@ -1,6 +1,6 @@
 //Insertion Sort By Uzair Hasan
 //This made this from scratch
-public class LinearSearchAlgorithm {
+public class LinearSearch {
 	public static void main (String[] args) {
 		int A[] = {0,1,2,3,4,5,6,7,8}; //Random test array
 		int B = 4; //Random search value
